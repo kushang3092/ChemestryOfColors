@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/lvl1"
+        android:title="@string/lvl1"
+        android:icon="@android:drawable/ic_menu_add"/>
+
+    <item android:id="@+id/lvl2"
+        android:title="@string/lvl2"
+        android:icon="@android:drawable/ic_menu_delete"/>
+
+    <item android:id="@+id/lvl3"
+        android:title="@string/lvl3"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"/>
+
+    <item android:id="@+id/lvl4"
+        android:title="@string/lvl4"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"/>
+
+
+
+</menu>

@@ -6,3 +6,12 @@
 .DS_Store
 /build
 /captures
+settings.gradle
+gradlew.bat
+gradlew
+gradle.properties
+local.properties
+ChemestryOfColors.iml
+build.gradle
+/.idea
+/gradle

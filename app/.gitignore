@@ -1,1 +1,6 @@
 /build
+/libs
+app.iml
+app-release.apk
+build.gradle
+proguard-rules.pro
